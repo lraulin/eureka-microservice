@@ -1,4 +1,4 @@
-package com.smoothstack.eureka.eureka;
+package com.smoothstack.lms.eurekaservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
